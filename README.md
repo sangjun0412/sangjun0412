@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjun0412&layout=compact&theme=demo)
 
-#[저는 이렇습니다.]
+#[저는 이렇습니다.](https://docs.google.com/viewer?url=https://drive.google.com/file/d/1EQ_-Ub2yjJ7nVM1p0V85DlFeYBGdQ2xg/view?usp=share_linkurl?raw=True)
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guaba0412@gmail.com)](mailto:guaba0412@gmail.com)
