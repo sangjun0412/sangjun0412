@@ -1,5 +1,4 @@
 # Sang Jun Park 🐘
-무한으로 즐기는 커밋
 
 [![Sangjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjun0412)]()
 
