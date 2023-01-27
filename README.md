@@ -4,8 +4,7 @@
 -  NLI LAB(2020~2022) 
 - 4SEOUL(2022.01~2022.07)
 - FFY(2023.01~01)
-## Doing
-- Mirae Asset Security IT (2023.02~NOW)
+
 ----------------------------------------------
 
 [![Sangjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjun0412)]()
