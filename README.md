@@ -5,7 +5,7 @@
 ### 42SEOUL(2022.01~2022.07)
 ### SAFFY(2023.01~01)
 ## Doing
-### Mirae Asset Security IT
+### Mirae Asset Security IT (2023.02~NOW)
 
 [![Sangjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjun0412)]()
 
