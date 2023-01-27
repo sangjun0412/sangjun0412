@@ -1,10 +1,10 @@
 # Sang Jun Park 🐘
 
-# Done
+## Done
 ### NLI LAB(2020~2022) 
 ### 42SEOUL(2022.01~2022.07)
 ### SAFFY(2023.01~01)
-# Doing
+## Doing
 ### Mirae Asset Security IT
 
 [![Sangjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjun0412)]()
