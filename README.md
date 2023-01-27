@@ -1,4 +1,11 @@
 # Sang Jun Park 🐘
+<hr>
+# Done
+### NLI LAB(2020~2022) 
+### 42SEOUL(2022.01~2022.07)
+### SAFFY(2023.01~01)
+# Doing
+### Mirae Asset Security 
 
 [![Sangjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjun0412)]()
 
@@ -8,12 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjun0412&langs_count=10&layout=compact)]()
 
-# Done
-### NLI LAB(2020~2022) 
-### 42SEOUL(2022.01~2022.07)
-### SAFFY(2023.01~01)
-# Doing
-### Mirae Asset Security 
+
 
 
 # :mailbox_with_mail: Contacts
